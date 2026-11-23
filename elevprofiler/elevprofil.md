@@ -1,6 +1,6 @@
 # Min elevprofil
 
-Namn: Fyll i ditt namn här
+Namn: Peter Lindholm 
 
 Det här vill jag lära mig om Git:
-Skriv en mening här.
+Hur vi bäst använder git med ai-agenter.
